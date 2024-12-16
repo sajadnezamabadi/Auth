@@ -1,0 +1,13 @@
+venv/
+Thumbs.db 
+.idea/    
+**/__pycache__/
+*.pyc
+.env  
+config.json 
+*.log  
+*.tmp  
+*.out 
+*.exe  
+*.dll  
+*.class
